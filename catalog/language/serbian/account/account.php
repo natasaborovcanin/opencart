@@ -1,20 +1,20 @@
 <?php
 // Heading 
-$_['heading_title']      = 'My Account';
+$_['heading_title']      = 'Moj nalog';
 
 // Text
-$_['text_account']       = 'Account';
-$_['text_my_account']    = 'My Account';
-$_['text_my_orders']     = 'My Orders';
-$_['text_my_newsletter'] = 'Newsletter';
-$_['text_edit']          = 'Edit your account information';
-$_['text_password']      = 'Change your password';
-$_['text_address']       = 'Modify your address book entries';
-$_['text_wishlist']      = 'Modify your wish list';
-$_['text_order']         = 'View your order history';
+$_['text_account']       = 'Moj nalog';
+$_['text_my_account']    = 'Moj nalog';
+$_['text_my_orders']     = 'Moje porudžbine';
+$_['text_my_newsletter'] = 'Aktuelnosti';
+$_['text_edit']          = 'Izmeni podatke u svom nalogu';
+$_['text_password']      = 'Promeni lozinku';
+$_['text_address']       = 'Izmeni svoj unos u adresar';
+$_['text_wishlist']      = 'Izmeni svoju listu želja';
+$_['text_order']         = 'Pogledaj svoju istoriju porudžbina';
 $_['text_download']      = 'Downloads';
-$_['text_reward']        = 'Your Reward Points'; 
-$_['text_return']        = 'View your return requests'; 
-$_['text_transaction']   = 'Your Transactions'; 
-$_['text_newsletter']    = 'Subscribe / unsubscribe to newsletter';
+$_['text_reward']        = 'Pogledaj svoje nagradne poene'; 
+$_['text_return']        = 'Pogledaj svoje zahteve za povraćaj proizvoda'; 
+$_['text_transaction']   = 'Tvoje transakcije'; 
+$_['text_newsletter']    = 'Prijavi se / Odjavi se';
 ?>
