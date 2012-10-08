@@ -1,14 +1,14 @@
 <?php
 // Heading 
-$_['heading_title']   = 'Account Downloads';
+$_['heading_title']   = 'Moji Downlodi';
 
 // Text
-$_['text_account']    = 'Account';
+$_['text_account']    = 'Moj nalog';
 $_['text_downloads']  = 'Downloads';
-$_['text_order']      = 'Order ID:';
-$_['text_date_added'] = 'Date Added:';
-$_['text_name']       = 'Name:';
-$_['text_remaining']  = 'Remaining:';
-$_['text_size']       = 'Size:';
-$_['text_empty']      = 'You have not made any previous downloadable orders!';
+$_['text_order']      = 'Broj porudžbine:';
+$_['text_date_added'] = 'Datum:';
+$_['text_name']       = 'Ime:';
+$_['text_remaining']  = 'Preostalo:';
+$_['text_size']       = 'Veličina:';
+$_['text_empty']      = 'Niste imali nikakve downlode!';
 ?>
