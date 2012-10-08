@@ -3,7 +3,7 @@
 $_['heading_title']     = 'Adresar';
 
 // Text
-$_['text_account']      = 'Nalog';
+$_['text_account']      = 'Moj nalog';
 $_['text_address_book'] = 'Unos u adresar';
 $_['text_edit_address'] = 'Izmeni adresu';
 $_['text_insert']       = 'Tvoja adresa je uspešno ubačena';
@@ -14,8 +14,8 @@ $_['text_delete']       = 'Tvoja adresa je uspešno obrisana';
 $_['entry_firstname']   = 'Ime:';
 $_['entry_lastname']    = 'Prezime:';
 $_['entry_company']     = 'Firma:';
-$_['entry_company_id']  = 'Company ID:';
-$_['entry_tax_id']      = 'Tax ID:';
+$_['entry_company_id']  = 'Matični broj:';
+$_['entry_tax_id']      = 'Poreski broj:';
 $_['entry_address_1']   = 'Adresa 1:';
 $_['entry_address_2']   = 'Adresa 2:';
 $_['entry_postcode']    = 'Poštanski broj:';
