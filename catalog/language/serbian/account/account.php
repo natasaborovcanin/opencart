@@ -16,5 +16,5 @@ $_['text_download']      = 'Downloads';
 $_['text_reward']        = 'Pogledaj svoje nagradne poene'; 
 $_['text_return']        = 'Pogledaj svoje zahteve za povraćaj proizvoda'; 
 $_['text_transaction']   = 'Tvoje transakcije'; 
-$_['text_newsletter']    = 'Prijavi se / Odjavi se';
+$_['text_newsletter']    = 'Prijavi se / Odjavi se ';
 ?>
