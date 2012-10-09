@@ -1,15 +1,15 @@
 <?php
 // Heading 
-$_['heading_title']      = 'Your Reward Points';
+$_['heading_title']      = 'Tvoji nagradni poeni';
 
 // Column
-$_['column_date_added']  = 'Date Added';
-$_['column_description'] = 'Description';
-$_['column_points']      = 'Points';
+$_['column_date_added']  = 'Datum';
+$_['column_description'] = 'Opis';
+$_['column_points']      = 'Poeni';
 
 // Text
-$_['text_account']       = 'Account';
-$_['text_reward']        = 'Reward Points';
-$_['text_total']         = 'Your total number of reward points is:';
-$_['text_empty']         = 'You do not have any reward points!';
+$_['text_account']       = 'Moj nalog';
+$_['text_reward']        = 'Nagradni poeni';
+$_['text_total']         = 'Ukupan broj tvojih nagradnih poena je:';
+$_['text_empty']         = 'Nemate nagradnih poena!';
 ?>
