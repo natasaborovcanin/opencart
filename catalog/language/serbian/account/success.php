@@ -1,10 +1,10 @@
 <?php
 // Heading
-$_['heading_title'] = 'Your Account Has Been Created!';
+$_['heading_title'] = 'Vaš nalog je kreiran!';
 
 // Text
-$_['text_message']  = '<p>Congratulations! Your new account has been successfully created!</p> <p>You can now take advantage of member privileges to enhance your online shopping experience with us.</p> <p>If you have ANY questions about the operation of this online shop, please email the store owner.</p> <p>A confirmation has been sent to the provided email address. If you have not received it within the hour, please <a href="%s">contact us</a>.</p>';
-$_['text_approval'] = '<p>Thank you for registering with %s!</p><p>You will be notified by email once your account has been activated by the store owner.</p><p>If you have ANY questions about the operation of this online shop, please <a href="%s">contact the store owner</a>.</p>';
-$_['text_account']  = 'Account';
-$_['text_success']  = 'Success';
+$_['text_message']  = '<p>Čestitamo! Vaš novi nalog je uspešno kreiran!</p> <p>Sada možete iskoristiti prednost brojnih privilegija kako bi poboljšali iskustvo online kupovine sa nama.</p> <p>Ako imate bilo kakva pitanja o opcijama ovog online shopa, molimo Vas email-lujte vlasnika shopa.</p> <p>Potvrda Vam je poslata na datu email adresu. ako je niste primili u roku od sat vremena, molimo Vas <a href="%s">kontaktirajte nas</a>.</p>';
+$_['text_approval'] = '<p>Hvala Vam što ste se registrovali kod nas %s!</p><p>Bećete obavešteni mailom kada Vaš nalog bude aktiviran od strane vlasnika shopa.</p><p>Ako imate bilo kakva pitanja o opcijama ovog online shopa, Molimo Vas <a href="%s">kontaktirajte vlasnika shopa</a>.</p>';
+$_['text_account']  = 'Moj nalog';
+$_['text_success']  = 'Uspeh';
 ?>
