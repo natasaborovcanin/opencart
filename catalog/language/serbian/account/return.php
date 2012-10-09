@@ -1,61 +1,61 @@
 <?php
 // Heading 
-$_['heading_title']      = 'Product Returns';
+$_['heading_title']      = 'Povraćaj robe';
 
 // Text
-$_['text_account']       = 'Account';
-$_['text_return']        = 'Return Information';
-$_['text_return_detail'] = 'Return Details';
-$_['text_description']   = '<p>Please complete the form below to request an RMA number.</p>';
-$_['text_order']         = 'Order Information';
-$_['text_product']       = 'Product Information &amp; Reason for Return';
-$_['text_message']       = '<p>Thank you for submitting your return request. Your request has been sent to the relevant department for processing.</p><p> You will be notified via e-mail as to the status of your request.</p>';
-$_['text_return_id']     = 'Return ID:';
-$_['text_order_id']      = 'Order ID:';
-$_['text_date_ordered']  = 'Order Date:';
+$_['text_account']       = 'Moj nalog';
+$_['text_return']        = 'Informacije o povraćaju';
+$_['text_return_detail'] = 'Detalji o povraćaju';
+$_['text_description']   = '<p>Molimo Vas popunite formu ispod to request an RMA number.</p>';
+$_['text_order']         = 'Informacije o porudžbini';
+$_['text_product']       = 'Informacije o proizvodu &amp; razlog povraćaja';
+$_['text_message']       = '<p>Hvala sto ste popunili formu za povraćaj. Vaš zahtev je poslat odgovarajućoj službi za izvršenje.</p><p> Bećete obavešteni e-mail-om o statusu vašeg zahteva.</p>';
+$_['text_return_id']     = 'Broj povraćaja:';
+$_['text_order_id']      = 'Broj porudžbine:';
+$_['text_date_ordered']  = 'Datum porudžbine:';
 $_['text_status']        = 'Status:';
 $_['text_date_added']    = 'Date Added:';
-$_['text_customer']      = 'Customer:';
-$_['text_comment']       = 'Return Comments';
-$_['text_history']       = 'Return History';
-$_['text_empty']         = 'You have not made any previous returns!';
-$_['text_error']         = 'The returns you requested could not be found!';
+$_['text_customer']      = 'Klijent:';
+$_['text_comment']       = 'Komentar uz povraćaj';
+$_['text_history']       = 'Istorija povraćaja';
+$_['text_empty']         = 'Niste imali prethodnih povraćaja!';
+$_['text_error']         = 'Povraćaji koje zahtevate nisu pronadjeni!';
 
 // Column
-$_['column_product']     = 'Product Name';
+$_['column_product']     = 'Naziv proizvoda';
 $_['column_model']       = 'Model';
-$_['column_quantity']    = 'Quantity';
-$_['column_price']       = 'Price';
-$_['column_opened']      = 'Opened';
-$_['column_comment']     = 'Comment';
-$_['column_reason']      = 'Reason';
-$_['column_action']      = 'Action';
-$_['column_date_added']  = 'Date Added';
+$_['column_quantity']    = 'Količina';
+$_['column_price']       = 'cena';
+$_['column_opened']      = 'Otvoreno';
+$_['column_comment']     = 'Napomena';
+$_['column_reason']      = 'razlog';
+$_['column_action']      = 'Akcija';
+$_['column_date_added']  = 'Datum';
 $_['column_status']      = 'Status';
 
 // Entry
-$_['entry_order_id']     = 'Order ID:';
-$_['entry_date_ordered'] = 'Order Date:';
-$_['entry_firstname']    = 'First Name:';
-$_['entry_lastname']     = 'Last Name:';
+$_['entry_order_id']     = 'Broj porudžbine:';
+$_['entry_date_ordered'] = 'Datum porudžbine:';
+$_['entry_firstname']    = 'Ime:';
+$_['entry_lastname']     = 'Prezime:';
 $_['entry_email']        = 'E-Mail:';
-$_['entry_telephone']    = 'Telephone:';
-$_['entry_product']      = 'Product Name:';
-$_['entry_model']        = 'Product Code:';
-$_['entry_quantity']     = 'Quantity:';
-$_['entry_reason']       = 'Reason for Return:';
-$_['entry_opened']       = 'Product is opened:';
-$_['entry_fault_detail'] = 'Faulty or other details:';
-$_['entry_captcha']      = 'Enter the code in the box below:';
+$_['entry_telephone']    = 'Telefon:';
+$_['entry_product']      = 'Naziv proizvoda:';
+$_['entry_model']        = 'Kod proizvoda:';
+$_['entry_quantity']     = 'Količina:';
+$_['entry_reason']       = 'Razlog povraćaja:';
+$_['entry_opened']       = 'Proizvod je otvoren:';
+$_['entry_fault_detail'] = 'Neispravnost ili drugi detalji:';
+$_['entry_captcha']      = 'Unesite kod u polje ispod:';
 
 // Error
-$_['error_order_id']     = 'Order ID required!';
-$_['error_firstname']    = 'First Name must be between 1 and 32 characters!';
-$_['error_lastname']     = 'Last Name must be between 1 and 32 characters!';
-$_['error_email']        = 'E-Mail Address does not appear to be valid!';
-$_['error_telephone']    = 'Telephone must be between 3 and 32 characters!';
-$_['error_product']      = 'Product Name must be greater than 3 and less than 255 characters!';
-$_['error_model']        = 'Product Model must be greater than 3 and less than 64 characters!';
-$_['error_reason']       = 'You must select at a return product reason!';
-$_['error_captcha']      = 'Verification code does not match the image!';
+$_['error_order_id']     = 'Neophodan je broj porudžbine!';
+$_['error_firstname']    = 'Ime mora biti izmedju 1 i 32 karaktera!';
+$_['error_lastname']     = 'Prezime mora biti izmedju 1 i 32 karaktera!';
+$_['error_email']        = 'E-Mail adresa nije ispravna!';
+$_['error_telephone']    = 'Telefon mora biti izmedju 3 i 32 karaktera!';
+$_['error_product']      = 'Naziv proizvoda mora biti veći od 3 i manji od 255 karaktera!';
+$_['error_model']        = 'Model proizvoda mora biti veći od 3 i manji od 64 karaktera!';
+$_['error_reason']       = 'Morate označiti razlog povraćaja !';
+$_['error_captcha']      = 'Verifikacioni kod ne odgovara slici!';
 ?>
