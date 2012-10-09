@@ -1,9 +1,9 @@
 <?php
 // Heading 
-$_['heading_title'] = 'Account Logout';
+$_['heading_title'] = 'Odjava sa naloga';
 
 // Text
-$_['text_message']  = '<p>You have been logged off your account. It is now safe to leave the computer.</p><p>Your shopping cart has been saved, the items inside it will be restored whenever you log back into your account.</p>';
-$_['text_account']  = 'Account';
-$_['text_logout']   = 'Logout';
+$_['text_message']  = '<p>Odjavljeni ste sa svog naloga. Sad je sigurno da napustite računar.</p><p>Vaša šoping kartica je sačuvana, artikli unutar nje biće obnovljeni kad god se ulogujete u svoj nalog.</p>';
+$_['text_account']  = 'Moj nalog';
+$_['text_logout']   = 'Odjava';
 ?>
