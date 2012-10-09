@@ -1,17 +1,17 @@
 <?php
 // Heading 
-$_['heading_title']  = 'Change Password';
+$_['heading_title']  = 'Promena lozinke';
 
 // Text
-$_['text_account']   = 'Account';
-$_['text_password']  = 'Your Password';
-$_['text_success']   = 'Success: Your password has been successfully updated.';
+$_['text_account']   = 'Moj nalog';
+$_['text_password']  = 'Vaša lozinka';
+$_['text_success']   = 'Uspeh: Vaša lozinka je uspešno izmenjena.';
 
 // Entry
-$_['entry_password'] = 'Password:';
-$_['entry_confirm']  = 'Password Confirm:';
+$_['entry_password'] = 'Lozinka:';
+$_['entry_confirm']  = 'Potvrda lozinke:';
 
 // Error
-$_['error_password'] = 'Password must be between 4 and 20 characters!';
-$_['error_confirm']  = 'Password confirmation does not match password!';
+$_['error_password'] = 'Lozinka mora imati izmedju 4 i 20 karaktera!';
+$_['error_confirm']  = 'Potvrda lozinke ne odgovara lozinci!';
 ?>
