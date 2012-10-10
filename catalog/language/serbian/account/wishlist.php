@@ -18,4 +18,3 @@ $_['column_model']  = 'Model';
 $_['column_stock']  = 'Na zalihama';
 $_['column_price']  = 'Jedinična cena';
 $_['column_action'] = 'Akcija';
-?>
