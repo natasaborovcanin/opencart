@@ -1,15 +1,15 @@
 <?php
 // Heading 
-$_['heading_title']        = 'My Affiliate Account';
+$_['heading_title']        = 'Moj partnerski nalog';
 
 // Text
-$_['text_account']         = 'Account';
-$_['text_my_account']      = 'My Affiliate Account';
-$_['text_my_tracking']     = 'My Tracking Information';
-$_['text_my_transactions'] = 'My Transactions';
-$_['text_edit']            = 'Edit your account information';
-$_['text_password']        = 'Change your password';
-$_['text_payment']         = 'Change your payment preferences';
-$_['text_tracking']        = 'Custom Affiliate Tracking Code';
-$_['text_transaction']     = 'View your transaction history';
+$_['text_account']         = 'Moj nalog';
+$_['text_my_account']      = 'Moj partnerski nalog';
+$_['text_my_tracking']     = 'Moje informacije o praćenju';
+$_['text_my_transactions'] = 'Moje transakcije';
+$_['text_edit']            = 'Izmenite podatke svog naloga';
+$_['text_password']        = 'Promenite lozinku';
+$_['text_payment']         = 'Promenite svoj način plaćanja';
+$_['text_tracking']        = 'Generisanje partnerskog koda praćenja';
+$_['text_transaction']     = 'Pogledajte svoju istoriju transakcija';
 ?>
