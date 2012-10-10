@@ -1,25 +1,25 @@
 <?php
 // Heading 
-$_['heading_title']             = 'Payment Method';
+$_['heading_title']             = 'Metod plaćanja';
 
 // Text
-$_['text_account']              = 'Account';
-$_['text_payment']              = 'Payment';
-$_['text_your_payment']         = 'Payment Information';
-$_['text_your_password']        = 'Your Password';
-$_['text_cheque']               = 'Cheque';
+$_['text_account']              = 'Moj nalog';
+$_['text_payment']              = 'Plaćanje';
+$_['text_your_payment']         = 'Način plaćanja';
+$_['text_your_password']        = 'Vaša lozinka';
+$_['text_cheque']               = 'Ček';
 $_['text_paypal']               = 'PayPal';
-$_['text_bank']                 = 'Bank Transfer';
-$_['text_success']              = 'Success: Your account has been successfully updated.';
+$_['text_bank']                 = 'Bankovni transfer';
+$_['text_success']              = 'Uspeh: Vaš nalog je uspešno izmenjen.';
 
 // Entry
-$_['entry_tax']                 = 'Tax ID:';
-$_['entry_payment']             = 'Payment Method:';
-$_['entry_cheque']              = 'Cheque Payee Name:';
-$_['entry_paypal']              = 'PayPal Email Account:';
-$_['entry_bank_name']           = 'Bank Name:';
-$_['entry_bank_branch_number']  = 'ABA/BSB number (Branch Number):';
-$_['entry_bank_swift_code']     = 'SWIFT Code:';
-$_['entry_bank_account_name']   = 'Account Name:';
-$_['entry_bank_account_number'] = 'Account Number:';
+$_['entry_tax']                 = 'Poreski broj:';
+$_['entry_payment']             = 'Metod plaćanja:';
+$_['entry_cheque']              = 'Ime primaoca čeka:';
+$_['entry_paypal']              = 'PayPal Email nalog:';
+$_['entry_bank_name']           = 'Naziv banke:';
+$_['entry_bank_branch_number']  = 'ABA/BSB broj (broj ogranka):';
+$_['entry_bank_swift_code']     = 'SWIFT kod:';
+$_['entry_bank_account_name']   = 'Naziv naloga:';
+$_['entry_bank_account_number'] = 'Broj naloga:';
 ?>
