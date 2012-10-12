@@ -1,56 +1,56 @@
 <?php
 // Heading  
-$_['heading_title']          = 'Shopping Cart';
+$_['heading_title']          = 'Šoping kartica';
 
 // Text
-$_['text_success']           = 'Success: You have added <a href="%s">%s</a> to your <a href="%s">shopping cart</a>!';
-$_['text_remove']            = 'Success: You have modified your shopping cart!';
-$_['text_coupon']            = 'Success: Your coupon discount has been applied!';
-$_['text_voucher']           = 'Success: Your gift voucher discount has been applied!';
-$_['text_reward']            = 'Success: Your reward points discount has been applied!';
-$_['text_shipping']          = 'Success: Your shipping estimate has been applied!';
-$_['text_login']             = 'Attention: You must <a href="%s">login</a> or <a href="%s">create an account</a> to view prices!';
-$_['text_points']            = 'Reward Points: %s';
-$_['text_items']             = '%s item(s) - %s';
-$_['text_next']              = 'What would you like to do next?';
-$_['text_next_choice']       = 'Choose if you have a discount code or reward points you want to use or would like to estimate your delivery cost.';
-$_['text_use_coupon']        = 'Use Coupon Code';
-$_['text_use_voucher']       = 'Use Gift Voucher';
-$_['text_use_reward']        = 'Use Reward Points (Available %s)';
-$_['text_shipping_estimate'] = 'Estimate Shipping &amp; Taxes';
-$_['text_shipping_detail']   = 'Enter your destination to get a shipping estimate.';
-$_['text_shipping_method']   = 'Please select the preferred shipping method to use on this order.';
-$_['text_empty']             = 'Your shopping cart is empty!';
+$_['text_success']           = 'Uspeh: Dodali ste <a href="%s">%s</a> na vašu <a href="%s">šoping karticu</a>!';
+$_['text_remove']            = 'Uspeh: Izmenili ste vašu šoping karticu!';
+$_['text_coupon']            = 'Uspeh: Vaš kupon za popust je odobren!';
+$_['text_voucher']           = 'Uspeh: Vaš poklon vaučer za popust je odobren!';
+$_['text_reward']            = 'Uspeh: Vaši nagradni poeni za popust su odobreni!';
+$_['text_shipping']          = 'Uspeh: Vaš način transporta je odobren!';
+$_['text_login']             = 'Upozorenje: Morate <a href="%s">se prijaviti</a> ili <a href="%s">kreiorati nalog</a> da bi ste videli cene!';
+$_['text_points']            = 'Nagradni poeni: %s';
+$_['text_items']             = '%s artikal - %s';
+$_['text_next']              = 'Šta bi ste da uradite dalje?';
+$_['text_next_choice']       = 'Izaberite ako imate kod za popust ili nagradne poene koje želite da iskoristite ili želite procenu vaših troskova transporta.';
+$_['text_use_coupon']        = 'Koristi kod sa kupona';
+$_['text_use_voucher']       = 'Koristi poklon vaučer';
+$_['text_use_reward']        = 'Koristi nagradne poene (Raspoloživo %s)';
+$_['text_shipping_estimate'] = 'Procena transportnih taksi';
+$_['text_shipping_detail']   = 'Unesite svoju destinaciju za procenu troskova prevoza.';
+$_['text_shipping_method']   = 'Molimo Vas izaberite željeni metod prevoza koji će te koristiti u ovoj porudžbini.';
+$_['text_empty']             = 'Vaša šoping kartica je prazna!';
 
 // Column
-$_['column_image']           = 'Image';
-$_['column_name']            = 'Product Name';
+$_['column_image']           = 'Slika';
+$_['column_name']            = 'Naziv proizvoda';
 $_['column_model']           = 'Model';
-$_['column_quantity']        = 'Quantity';
-$_['column_price']           = 'Unit Price';
-$_['column_total']           = 'Total';
+$_['column_quantity']        = 'Količina';
+$_['column_price']           = 'Jedinična cena';
+$_['column_total']           = 'Ukupno';
 
 // Entry
-$_['entry_coupon']           = 'Enter your coupon here:';
-$_['entry_voucher']          = 'Enter your gift voucher code here:';
-$_['entry_reward']           = 'Points to use (Max %s):';
-$_['entry_country']          = 'Country:';
-$_['entry_zone']             = 'Region / State:';
-$_['entry_postcode']         = 'Post Code:';
+$_['entry_coupon']           = 'Unesite svoj kupon ovde:';
+$_['entry_voucher']          = 'Unesite svoj kod sa poklon vaučera:';
+$_['entry_reward']           = 'Poeni koje možete koristiti (Maksimalno %s):';
+$_['entry_country']          = 'Zemlja:';
+$_['entry_zone']             = 'Region / Država:';
+$_['entry_postcode']         = 'Poštanski broj:';
 
 // Error
-$_['error_stock']            = 'Products marked with *** are not available in the desired quantity or not in stock!';
-$_['error_minimum']          = 'Minimum order amount for %s is %s!';	
-$_['error_required']         = '%s required!';	
-$_['error_product']          = 'Warning: There are no products in your cart!';	
-$_['error_coupon']           = 'Warning: Coupon is either invalid, expired or reached it\'s usage limit!';
-$_['error_voucher']          = 'Warning: Gift Voucher is either invalid or the balance has been used up!';
-$_['error_reward']           = 'Warning: Please enter the amount of reward points to use!';	
-$_['error_points']           = 'Warning: You don\'t have %s reward points!';
-$_['error_maximum']          = 'Warning: The maximum number of points that can be applied is %s!';
-$_['error_postcode']         = 'Postcode must be between 2 and 10 characters!';
-$_['error_country']          = 'Please select a country!';
-$_['error_zone']             = 'Please select a region / state!';
-$_['error_shipping']         = 'Warning: Shipping method required!';
-$_['error_no_shipping']      = 'Warning: No Shipping options are available. Please <a href="%s">contact us</a> for assistance!';
+$_['error_stock']            = 'Proizvodi označeni sa *** nisu dostupni u željenoj količini ili ih nema na zalihama!';
+$_['error_minimum']          = 'Minimalna količina za poručivanje %s je %s!';	
+$_['error_required']         = '%s se zahteva!';	
+$_['error_product']          = 'Upozorenja: Nema proizvoda na vašoj kartici!';	
+$_['error_coupon']           = 'Upozorenje: Kupon je ili neispravan, istekao ili dostigao svoj limit!';
+$_['error_voucher']          = 'Upozorenje: Poklon vaučer je ili neispravan ili iskorišćen!';
+$_['error_reward']           = 'Upozorenje: Molimo vas unesite iznos nagradnih poena koje želite da iskoristite!';	
+$_['error_points']           = 'Upozorenje: Nemate %s nagradnih poena!';
+$_['error_maximum']          = 'Upozorenje: Maksimalni broj poena koji mogu biti odobreni je %s!';
+$_['error_postcode']         = 'Poštanski broj mora imati izmedju 2 i 10 karaktera!';
+$_['error_country']          = 'Molimo Vas odaberite zemlju!';
+$_['error_zone']             = 'Molimo Vas odaberite region / državu!';
+$_['error_shipping']         = 'Upozorenje: Morate uneti način transporta!';
+$_['error_no_shipping']      = 'Upozorenje: Načini prevoza nisu dostupni. Molimo Vas <a href="%s">kontaktirajte nas</a> za pomoć!';
 ?>
