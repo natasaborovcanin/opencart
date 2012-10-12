@@ -1,8 +1,8 @@
 <?php
 // Text
-$_['text_subject']  = '%s - Affiliate Program';
-$_['text_welcome']  = 'Thank you for joining the %s Affiliate Program!';
-$_['text_approval'] = 'Your account must be approved before you can login. Once approved you can log in by using your email address and password by visiting our website or at the following URL:';
-$_['text_services'] = 'Upon logging in, you will be able to generate tracking codes, track commission payments and edit your account information.';
-$_['text_thanks']   = 'Thanks,';
+$_['text_subject']  = '%s - Partnerski program';
+$_['text_welcome']  = 'Hvala Vam što ste se priključili %s partnerski program!';
+$_['text_approval'] = 'Vaš nalog mora biti odobren pre nego što budete u mogućnosti da se prijavite. Kad jednom bude odobren možete se prijaviti korišćenjem vaše mail adrese i lozinke posetom našem veb sajtu or ili sledeći sledeći URL:';
+$_['text_services'] = 'Kada se ulogujete, bićete u mogućnosti da generišete kodove praćenja, isplate provizija praćenja i izmenite podatke vašeg naloga.';
+$_['text_thanks']   = 'Hvala,';
 ?>
