@@ -1,3 +1,7 @@
 2012-10-08 14:59:49 - PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\OPENCART_N\system\library\mail.php on line 150
 2012-10-10 12:27:43 - PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\OPENCART_N\system\library\mail.php on line 150
 2012-10-10 12:43:27 - PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\OPENCART_N\system\library\mail.php on line 150
+2012-10-12 15:26:57 - PHP Notice:  Undefined index: last_order_id in C:\xampp\htdocs\OPENCART_N\catalog\controller\checkout\success.php on line 66
+2012-10-12 15:26:57 - PHP Notice:  Undefined index: last_order_id in C:\xampp\htdocs\OPENCART_N\catalog\controller\checkout\success.php on line 66
+2012-10-12 15:27:51 - PHP Notice:  Undefined index: last_order_id in C:\xampp\htdocs\OPENCART_N\catalog\controller\checkout\success.php on line 66
+2012-10-12 15:27:51 - PHP Notice:  Undefined index: last_order_id in C:\xampp\htdocs\OPENCART_N\catalog\controller\checkout\success.php on line 66
