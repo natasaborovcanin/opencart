@@ -1,7 +1,7 @@
 <?php
 // Heading 
-$_['heading_title'] = 'Latest';
+$_['heading_title'] = 'Najnovije';
 
 // Text
-$_['text_reviews']  = 'Based on %s reviews.'; 
+$_['text_reviews']  = 'Bazirano na %s kritikama.'; 
 ?>
