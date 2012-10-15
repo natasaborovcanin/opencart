@@ -1,10 +1,10 @@
 <?php
 // Heading 
-$_['heading_title'] = 'Shopping Cart';
+$_['heading_title'] = 'Šoping kartica';
 
 // Text
-$_['text_items']    = '%s item(s) - %s';
-$_['text_empty']    = 'Your shopping cart is empty!';
-$_['text_cart']     = 'View Cart';
-$_['text_checkout'] = 'Checkout';
+$_['text_items']    = '%s proizvod(i) - %s';
+$_['text_empty']    = 'Vaša šoping kartica je prazna!';
+$_['text_cart']     = 'Pogledajte karticu';
+$_['text_checkout'] = 'Odjava';
 ?>
