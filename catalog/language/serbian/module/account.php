@@ -1,19 +1,19 @@
 <?php
 // Heading 
-$_['heading_title']    = 'Account';
+$_['heading_title']    = 'Moj nalog';
 
 // Text
-$_['text_register']    = 'Register';
-$_['text_login']       = 'Login';
-$_['text_logout']      = 'Logout';
-$_['text_forgotten']   = 'Forgotten Password';
-$_['text_account']     = 'My Account';
-$_['text_edit']        = 'Edit Account';
-$_['text_password']    = 'Password';
-$_['text_wishlist']    = 'Wish List';
-$_['text_order']       = 'Order History';
+$_['text_register']    = 'Registracija';
+$_['text_login']       = 'Prijava';
+$_['text_logout']      = 'Odjava';
+$_['text_forgotten']   = 'Zaboravljena lozinka';
+$_['text_account']     = 'Moj nalog';
+$_['text_edit']        = 'Izmena naloga';
+$_['text_password']    = 'Lozinka';
+$_['text_wishlist']    = 'Lista želja';
+$_['text_order']       = 'Istorija porudžbina';
 $_['text_download']    = 'Downloads';
-$_['text_return']      = 'Returns';
-$_['text_transaction'] = 'Transactions';
-$_['text_newsletter']  = 'Newsletter';
+$_['text_return']      = 'Povraćaj';
+$_['text_transaction'] = 'Transakcije';
+$_['text_newsletter']  = 'Aktuelnosti';
 ?>
