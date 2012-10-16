@@ -1,11 +1,11 @@
 <?php
 // Text
-$_['text_title']          = 'Credit Card / Debit Card (Paymate)';
-$_['text_unable']         = 'Unable to locate or update your order status';
-$_['text_declined']       = 'Payment was declined by Paymate';
-$_['text_failed']         = 'Paymate Transaction Failed';
-$_['text_failed_message'] = '<p>Unfortunately there was an error processing your Paymate transaction.</p><p><b>Warning: </b>%s</p><p>Please verify your Paymate account balance before attempting to re-process this order</p><p> If you believe this transaction has completed successfully, or is showing as a deduction in your Paymate account, please <a href="%s">Contact Us</a> with your order details.</p>';
-$_['text_basket']         = 'Basket';
-$_['text_checkout']       = 'Checkout';
-$_['text_success']        = 'Success';
+$_['text_title']          = 'Kreditna kartica / Debitna kartica (Paymate)';
+$_['text_unable']         = 'Nismo u mogućnosti da lociramo ili osvežimo vaš status porudžbine';
+$_['text_declined']       = 'Plaćanje je odbijeno od Paymate';
+$_['text_failed']         = 'Paymate tarnsakcija nije uspela';
+$_['text_failed_message'] = '<p>Nažalost desila se greška tokom procexsuiranja vaše Paymate transakcije.</p><p><b>Upozorenje: </b>%s</p><p>Molimo Vas verifikujte vaš Paymate nalog saldo pre pokušaja da reprocesuirate vašu porudžbinu</p><p> Ako verujete da je ova transakcija završena uspešno , ili pokazuje smanjenje na vašem Paymate nalogu, molimo Vas <a href="%s">Kontaktirajte nas</a> sa vašim detaljima porudžbine.</p>';
+$_['text_basket']         = 'Korpa';
+$_['text_checkout']       = 'Odjava';
+$_['text_success']        = 'Uspeh';
 ?>
