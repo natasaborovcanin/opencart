@@ -1,20 +1,20 @@
 <?php
 // Text
-$_['text_title']           = 'Credit or Debit Card (Processed securely by Perpetual Payments)';
-$_['text_credit_card']     = 'Credit Card Details';
-$_['text_start_date']      = '(if available)';
-$_['text_issue']           = '(for Maestro and Solo cards only)';
-$_['text_wait']            = 'Please wait!';
-$_['text_transaction']     = 'Transaction ID:';
+$_['text_title']           = 'Kreditna ili debitna kartica (Procesuirana sigurno od Perpetual Payments)';
+$_['text_credit_card']     = 'Podaci o kreditnoj kartici';
+$_['text_start_date']      = '(ako je dostupno)';
+$_['text_issue']           = '(samo za Maestro i Solo kartice)';
+$_['text_wait']            = 'Molimo Vas sačekajte!';
+$_['text_transaction']     = 'Broj transakcije:';
 $_['text_avs']             = 'AVS/CVV:';
-$_['text_avs_full_match']  = 'Full match';
-$_['text_avs_not_match']   = 'Not matched';
-$_['text_authorisation']   = 'Authorisation code:';
+$_['text_avs_full_match']  = 'Potpuno slaganje';
+$_['text_avs_not_match']   = 'Ne slaže se';
+$_['text_authorisation']   = 'Autorizacioni kod:';
 
 // Entry
-$_['entry_cc_number']      = 'Card Number:';
-$_['entry_cc_start_date']  = 'Card Valid From Date:';
-$_['entry_cc_expire_date'] = 'Card Expiry Date:';
-$_['entry_cc_cvv2']        = 'Card Security Code (CVV2):';
-$_['entry_cc_issue']       = 'Card Issue Number:';
+$_['entry_cc_number']      = 'Broj kartice:';
+$_['entry_cc_start_date']  = 'Datum aktiviranja kartice:';
+$_['entry_cc_expire_date'] = 'Datum isticanja kartice:';
+$_['entry_cc_cvv2']        = 'Sigurnosni kod kartice (CVV2):';
+$_['entry_cc_issue']       = 'Broj izdanja kartice:';
 ?>
