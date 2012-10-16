@@ -1,22 +1,22 @@
 <?php
 // Text
-$_['text_title']       = 'Klarna Part Payment';
-$_['text_information'] = 'Klarna Information';
-$_['text_additional']  = 'Klarna requires some additional information before they can proccess your order.';
-$_['text_wait']        = 'Please wait!';
-$_['text_male']        = 'Male';
-$_['text_female']      = 'Female';
+$_['text_title']       = 'Klarna otplata';
+$_['text_information'] = 'Klarna informacije';
+$_['text_additional']  = 'Klarna zahteva neke dodatne informacije pre nego što dalje procesuira vašu porudžbinu.';
+$_['text_wait']        = 'Molimo Vas sačejkajte!';
+$_['text_male']        = 'Žensko';
+$_['text_female']      = 'Muško';
 
 // Entry
-$_['entry_gender']     = 'Gender:';
-$_['entry_dob']        = 'PNO/BIRTH DATA:';
-$_['entry_house_no']   = 'House No.:';
-$_['entry_house_ext']  = 'House Ext.:';
-$_['entry_mobile']     = 'Cell Phone:';
+$_['entry_gender']     = 'Pol:';
+$_['entry_dob']        = 'Datum rodjenja:';
+$_['entry_house_no']   = 'Kućni broj:';
+$_['entry_house_ext']  = 'Kućna adresa:';
+$_['entry_mobile']     = 'Mobilni telefon:';
 
 // Error
-$_['error_gender']     = 'Gender Required!';
-$_['error_dob']        = 'PNO/BIRTH DATA Required!';
-$_['error_house_no']   = 'House No. Required!';
-$_['error_house_ext']  = 'House Extension Required!';
+$_['error_gender']     = 'Pol je obavezan!';
+$_['error_dob']        = 'Datum rodjenja je obavezan!';
+$_['error_house_no']   = 'Kućni broj je obavezan!';
+$_['error_house_ext']  = 'Kućna adresa je obavezna!';
 ?>
