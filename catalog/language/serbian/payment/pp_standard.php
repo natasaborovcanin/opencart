@@ -1,7 +1,7 @@
 <?php
 // Text
 $_['text_title']    = 'PayPal';
-$_['text_reason'] 	= 'REASON';
-$_['text_testmode']	= 'Warning: The payment gateway is in \'Sandbox Mode\'. Your account will not be charged.';
-$_['text_total']	= 'Shipping, Handling, Discounts & Taxes';
+$_['text_reason'] 	= 'RAZLOG';
+$_['text_testmode']	= 'Upozorenje: Prolaz za uplatu je u \'Sandbox Mode\'. Vaš nalog neće biti opterećen.';
+$_['text_total']	= 'Prevoz, Rukovanje, Popusti i porezi';
 ?>
