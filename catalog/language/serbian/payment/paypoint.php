@@ -1,12 +1,12 @@
 <?php
 // Heading
-$_['heading_title']     = 'Thank you for shopping with %s .... ';
+$_['heading_title']     = 'Hvala vam što ste kupovali sa %s .... ';
 
 // Text
-$_['text_title']        = 'Credit Card / Debit Card (PayPoint)';
-$_['text_response']     = 'Response from PayPoint:';
-$_['text_success']      = '... your payment was successfully received.';
-$_['text_success_wait'] = '<b><span style="color: #FF0000">Please wait...</span></b> whilst we finish processing your order.<br>If you are not automatically re-directed in 10 seconds, please click <a href="%s">here</a>.';
-$_['text_failure']      = '... Your payment has been cancelled!';
-$_['text_failure_wait'] = '<b><span style="color: #FF0000">Please wait...</span></b><br>If you are not automatically re-directed in 10 seconds, please click <a href="%s">here</a>.';										  
+$_['text_title']        = 'Kreditna kartica / Debitna kartica (PayPoint)';
+$_['text_response']     = 'Odgovor od PayPoint:';
+$_['text_success']      = '... vaša uplata je uspešno primljena.';
+$_['text_success_wait'] = '<b><span style="color: #FF0000">Molimo Vas sačekajte...</span></b> dok ne završimo procesuiranje vaše porudžbine.<br>Ako niste automatski presmereni u roku od 10 sekundi, molimo Vas kliknite  <a href="%s">ovde</a>.';
+$_['text_failure']      = '... Vaša uplata je otkazana!';
+$_['text_failure_wait'] = '<b><span style="color: #FF0000">Molimo Vas sačekajte ...</span></b><br>Ako niste automatski preusmereni u roku od 10 sekundi, molimo Vas kliknite <a href="%s">ovde</a>.';										  
 ?>
