@@ -1,52 +1,52 @@
 <?php
 // Text
-$_['text_search']       = 'Search';
-$_['text_brand']        = 'Brand';
-$_['text_manufacturer'] = 'Brand:';
-$_['text_model']        = 'Product Code:';
-$_['text_reward']       = 'Reward Points:'; 
-$_['text_points']       = 'Price in reward points:';
-$_['text_stock']        = 'Availability:';
-$_['text_instock']      = 'In Stock';
-$_['text_price']        = 'Price:'; 
-$_['text_tax']          = 'Ex Tax:'; 
-$_['text_discount']     = '%s or more %s';
-$_['text_option']       = 'Available Options';
-$_['text_qty']          = 'Qty:';
-$_['text_minimum']      = 'This product has a minimum quantity of %s';
-$_['text_or']           = '- OR -';
-$_['text_reviews']      = '%s reviews'; 
-$_['text_write']        = 'Write a review';
-$_['text_no_reviews']   = 'There are no reviews for this product.';
-$_['text_on']           = ' on ';
-$_['text_note']         = '<span style="color: #FF0000;">Note:</span> HTML is not translated!';
-$_['text_share']        = 'Share';
-$_['text_success']      = 'Thank you for your review. It has been submitted to the webmaster for approval.';
-$_['text_upload']       = 'Your file was successfully uploaded!';
-$_['text_wait']         = 'Please Wait!';
-$_['text_tags']         = 'Tags:';
-$_['text_error']        = 'Product not found!';
+$_['text_search']       = 'Pretraga';
+$_['text_brand']        = 'Brend';
+$_['text_manufacturer'] = 'Brend:';
+$_['text_model']        = 'Kod proizvoda:';
+$_['text_reward']       = 'Nagradni poeni:'; 
+$_['text_points']       = 'Cena u nagradnim poenima:';
+$_['text_stock']        = 'Dostupnost:';
+$_['text_instock']      = 'Na zalihama';
+$_['text_price']        = 'Cena:'; 
+$_['text_tax']          = 'Porez:'; 
+$_['text_discount']     = '%s ili više %s';
+$_['text_option']       = 'Dostupne opcije';
+$_['text_qty']          = 'Količina:';
+$_['text_minimum']      = 'Ovaj proizvod ima minimalnu količinu od %s';
+$_['text_or']           = '- ili -';
+$_['text_reviews']      = '%s kritike'; 
+$_['text_write']        = 'Napiši kritiku';
+$_['text_no_reviews']   = 'Nema kritika za ovaj proizvod.';
+$_['text_on']           = ' na ';
+$_['text_note']         = '<span style="color: #FF0000;">Obratite pažnju:</span> HTML nije prevedena!';
+$_['text_share']        = 'Podeli';
+$_['text_success']      = 'Hvala Vam za vaše kritike. One su sumirane kod vebmastera za odobrenje.';
+$_['text_upload']       = 'Vaš fajl je uspešno podignut!';
+$_['text_wait']         = 'Molimo Vas sačekajte!';
+$_['text_tags']         = 'Oznake:';
+$_['text_error']        = 'Proizvod nije pronadjen!';
 
 // Entry
-$_['entry_name']        = 'Your Name:';
-$_['entry_review']      = 'Your Review:';
-$_['entry_rating']      = 'Rating:';
-$_['entry_good']        = 'Good';
-$_['entry_bad']         = 'Bad';
-$_['entry_captcha']     = 'Enter the code in the box below:';
+$_['entry_name']        = 'Vaše ime:';
+$_['entry_review']      = 'Vaše kritike:';
+$_['entry_rating']      = 'Rejting:';
+$_['entry_good']        = 'Dobro';
+$_['entry_bad']         = 'Loše';
+$_['entry_captcha']     = 'Unesite kod u polje ispod:';
 
 // Tabs
-$_['tab_description']   = 'Description';
-$_['tab_attribute']     = 'Specification';
-$_['tab_review']        = 'Reviews (%s)';
-$_['tab_related']       = 'Related Products'; 
+$_['tab_description']   = 'Opis';
+$_['tab_attribute']     = 'Specifikacija';
+$_['tab_review']        = 'Kritike(%s)';
+$_['tab_related']       = 'Povezani proizvodi'; 
 
 // Error
-$_['error_name']        = 'Warning: Review Name must be between 3 and 25 characters!';
-$_['error_text']        = 'Warning: Review Text must be between 25 and 1000 characters!';
-$_['error_rating']      = 'Warning: Please select a review rating!';
-$_['error_captcha']     = 'Warning: Verification code does not match the image!';
-$_['error_upload']      = 'Upload required!';
-$_['error_filename']    = 'Filename must be between 3 and 64 characters!';
-$_['error_filetype']    = 'Invalid file type!';
+$_['error_name']        = 'Upozorenje: Naziv kritike mora biti izmedju 3 i 25 karaktera!';
+$_['error_text']        = 'Upozorenje: tekst kritike mora sadržati izmedju 25 i 1000 karaktera!';
+$_['error_rating']      = 'Upozorenje: Molimo Vas odaberite rejting kritike!';
+$_['error_captcha']     = 'Upozorenje: Verifikacioni kod ne odgovara slici!';
+$_['error_upload']      = 'Potrebno podizanje!';
+$_['error_filename']    = 'Naziv fajla mora biti izmedju 3 i 64 karaktera!';
+$_['error_filetype']    = 'Neispravan tip fajla!';
 ?>
