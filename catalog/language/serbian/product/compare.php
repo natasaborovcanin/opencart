@@ -1,23 +1,23 @@
 <?php
 // Heading
-$_['heading_title']     = 'Product Comparison';
+$_['heading_title']     = 'Poredjenje proizvoda';
  
 // Text
-$_['text_product']      = 'Product Details';
-$_['text_name']         = 'Product';
-$_['text_image']        = 'Image';
-$_['text_price']        = 'Price';
+$_['text_product']      = 'Podaci o proizvodu';
+$_['text_name']         = 'Proizvod';
+$_['text_image']        = 'Slika';
+$_['text_price']        = 'Cena';
 $_['text_model']        = 'Model';
-$_['text_manufacturer'] = 'Brand';
-$_['text_availability'] = 'Availability';
-$_['text_instock']      = 'In Stock';
-$_['text_rating']       = 'Rating';
-$_['text_reviews']      = 'Based on %s reviews.';
-$_['text_summary']      = 'Summary';
-$_['text_weight']       = 'Weight';
-$_['text_dimension']    = 'Dimensions (L x W x H)';
-$_['text_compare']      = 'Product Compare (%s)';
-$_['text_success']      = 'Success: You have added <a href="%s">%s</a> to your <a href="%s">product comparison</a>!';
-$_['text_remove']       = 'Success: You have modified your product comparison!';
-$_['text_empty']        = 'You have not chosen any products to compare.';
+$_['text_manufacturer'] = 'Brend';
+$_['text_availability'] = 'Dostupno';
+$_['text_instock']      = 'Na zalihama';
+$_['text_rating']       = 'Rejting';
+$_['text_reviews']      = 'Bazirano na %s kritikama.';
+$_['text_summary']      = 'Kratak pregled';
+$_['text_weight']       = 'Težina';
+$_['text_dimension']    = 'Dimenzije (D x Š x V)';
+$_['text_compare']      = 'Poredjenje proizvoda (%s)';
+$_['text_success']      = 'Uspeh: Dodali ste <a href="%s">%s</a> na vaše <a href="%s">poredjenje proizvoda</a>!';
+$_['text_remove']       = 'Uspeh: Izmenili ste poredjenje proizvoda!';
+$_['text_empty']        = 'Niste izabrali proizvode za poredjenje.';
 ?>
