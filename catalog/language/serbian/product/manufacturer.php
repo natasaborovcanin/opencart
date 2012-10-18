@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']     = 'Pronadjite svoj omiljeni brend';
+$_['heading_title']     = 'Odaberite svoj omiljeni brend';
 
 // Text
 $_['text_brand']        = 'Brend';
