@@ -1,32 +1,32 @@
 <?php
 // Heading
-$_['heading_title']     = 'Find Your Favorite Brand';
+$_['heading_title']     = 'Pronadjite svoj omiljeni brend';
 
 // Text
-$_['text_brand']        = 'Brand';
-$_['text_index']        = 'Brand Index:';
-$_['text_error']        = 'Brand not found!';
-$_['text_empty']        = 'There are no products to list.';
-$_['text_quantity']     = 'Qty:';
-$_['text_manufacturer'] = 'Brand:';
-$_['text_model']        = 'Product Code:'; 
-$_['text_points']       = 'Reward Points:'; 
-$_['text_price']        = 'Price:'; 
-$_['text_tax']          = 'Ex Tax:'; 
-$_['text_reviews']      = 'Based on %s reviews.'; 
-$_['text_compare']      = 'Product Compare (%s)'; 
-$_['text_display']      = 'Display:';
-$_['text_list']         = 'List';
-$_['text_grid']         = 'Grid';
-$_['text_sort']         = 'Sort By:';
-$_['text_default']      = 'Default';
-$_['text_name_asc']     = 'Name (A - Z)';
-$_['text_name_desc']    = 'Name (Z - A)';
-$_['text_price_asc']    = 'Price (Low &gt; High)';
-$_['text_price_desc']   = 'Price (High &gt; Low)';
-$_['text_rating_asc']   = 'Rating (Lowest)';
-$_['text_rating_desc']  = 'Rating (Highest)';
+$_['text_brand']        = 'Brend';
+$_['text_index']        = 'Indeks brenda:';
+$_['text_error']        = 'Brend nije pronadjen!';
+$_['text_empty']        = 'Nema proizvoda na listi.';
+$_['text_quantity']     = 'Količina:';
+$_['text_manufacturer'] = 'Brend:';
+$_['text_model']        = 'Kod proizvoda:'; 
+$_['text_points']       = 'Nagradni poeni:'; 
+$_['text_price']        = 'Cena:'; 
+$_['text_tax']          = 'Porez:'; 
+$_['text_reviews']      = 'Bazirano na %s kritikama.'; 
+$_['text_compare']      = 'Poredjenje proizvoda (%s)'; 
+$_['text_display']      = 'Prikaz:';
+$_['text_list']         = 'Lista';
+$_['text_grid']         = 'Jedan do drugog';
+$_['text_sort']         = 'Sortiraj po:';
+$_['text_default']      = 'Podrazumevano';
+$_['text_name_asc']     = 'Ime (A - Z)';
+$_['text_name_desc']    = 'Ime (Z - A)';
+$_['text_price_asc']    = 'Cena (najniža &gt; najviša)';
+$_['text_price_desc']   = 'Cena (najviša &gt; najniža)';
+$_['text_rating_asc']   = 'Rejting (Najniži)';
+$_['text_rating_desc']  = 'Rejting (Najviši)';
 $_['text_model_asc']    = 'Model (A - Z)';
 $_['text_model_desc']   = 'Model (Z - A)';
-$_['text_limit']        = 'Show:';
+$_['text_limit']        = 'Prikaži:';
 ?>
