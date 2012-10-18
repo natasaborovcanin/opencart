@@ -1,5 +1,5 @@
 <?php
 // Text
-$_['text_title']       = 'Pickup';
-$_['text_description'] = 'Pickup From Store';
+$_['text_title']       = 'Prikupljanje';
+$_['text_description'] = 'Prikupljanje iz radnje';
 ?>
