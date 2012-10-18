@@ -33,6 +33,6 @@ $_['text_model_desc']   = 'Model (Z - A)';
 $_['text_limit']        = 'Prikaz:';
 
 // Entry
-$_['entry_search']      = 'Search:';
-$_['entry_description'] = 'Search in product descriptions';
+$_['entry_search']      = 'Traži:';
+$_['entry_description'] = 'Traži u opisu proizvoda';
 ?>
