@@ -3,7 +3,7 @@
 $_['heading_title']                  = 'Kupovina';
 
 // Text
-$_['text_cart']                      = 'Šoping kartica';
+$_['text_cart']                      = 'Korpa';
 $_['text_checkout_option']           = 'Korak 1: Opcije kupovine';
 $_['text_checkout_account']          = 'Korak 2: Moj nalog i detalji obračuna';
 $_['text_checkout_payment_address']  = 'Korak 2: Detalji obračuna';
