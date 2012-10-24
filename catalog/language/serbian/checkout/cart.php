@@ -1,6 +1,6 @@
 <?php
 // Heading  
-$_['heading_title']          = 'Šoping kartica';
+$_['heading_title']          = 'Korpa';
 
 // Text
 $_['text_success']           = 'Uspeh: Dodali ste <a href="%s">%s</a> na vašu <a href="%s">šoping karticu</a>!';
@@ -20,7 +20,7 @@ $_['text_use_reward']        = 'Koristi nagradne poene (Raspoloživo %s)';
 $_['text_shipping_estimate'] = 'Procena transportnih taksi';
 $_['text_shipping_detail']   = 'Unesite svoju destinaciju za procenu troskova prevoza.';
 $_['text_shipping_method']   = 'Molimo Vas izaberite željeni metod prevoza koji će te koristiti u ovoj porudžbini.';
-$_['text_empty']             = 'Vaša šoping kartica je prazna!';
+$_['text_empty']             = 'Vaša korpa je prazna!';
 
 // Column
 $_['column_image']           = 'Slika';
