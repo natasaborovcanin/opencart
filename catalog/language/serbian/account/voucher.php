@@ -7,7 +7,7 @@ $_['text_account']     = 'Moj nalog';
 $_['text_voucher']     = 'Poklon certifikat';
 $_['text_description'] = 'Ovaj poklon certifikat biće poslat emailom primaocu nakon što vaša porudžbina bude plaćena.';
 $_['text_agree']       = 'Razumem da poklon certifikat nemože da se refundira.';
-$_['text_message']     = '<p>Hvala vam što se poručili poklon certifikat! Kada kompletirate svoju porudžbinu your gift voucher reciprimalac će biti obavešten mailom o detaljima kako da otkupi svoj poklon vaučer.</p>';
+$_['text_message']     = '<p>Hvala vam što se poručili poklon certifikat! Kada kompletirate svoju porudžbinu primalac će biti obavešten mailom o detaljima kako da otkupi svoj poklon vaučer.</p>';
 $_['text_for']         = '%s Poklon certifikat za %s';
 
 // Entry
