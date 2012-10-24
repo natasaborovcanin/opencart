@@ -27,7 +27,7 @@ $_['text_agree']                     = 'Pročitao sam i slažem se sa <a class="
 $_['text_address_new']               = 'Želim da koristim novu adresu';
 $_['text_address_existing']          = 'Želim da koristim postojeću adresu';
 $_['text_shipping_method']           = 'Molimo Vas označite željeni metod transporta koji će te koristiti za ovu porudžbinu.';
-$_['text_payment_method']            = 'Molimo Vas označite željeni načim plaćanja koji će te koristiti za ovu porudžbinu.';
+$_['text_payment_method']            = 'Molimo Vas označite željeni način plaćanja koji će te koristiti za ovu porudžbinu.';
 $_['text_comments']                  = 'Dodajte napomenu uz svoju porudžbinu';
 
 // Column
