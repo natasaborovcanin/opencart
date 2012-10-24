@@ -8,7 +8,7 @@ $_['column_description'] = 'Opis';
 $_['column_amount']      = 'Iznos (%s)';
 
 // Text
-$_['text_account']       = 'Account';
+$_['text_account']       = 'Moj nalog';
 $_['text_transaction']   = 'Vaše transakcije';
 $_['text_total']         = 'Vaš promet ukupno je:';
 $_['text_empty']         = 'Nemate transakcija!';
